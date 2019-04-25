@@ -1,0 +1,51 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    font-size: 80%;
+    font-family: "MS P????", sans-serif;
+    background: #edead3 url(image/cat_bg_loop.gif) repeat center top;
+    line-height: 1.5em;
+}
+
+
+
+#cam {
+	
+	margin-bottom: 50px;
+	width: 640px;
+	align-content: center;
+	display: inline;
+}
+#header {
+	align-content: center;
+}
+#formu {
+	align-content : center;
+	width: 200px;
+	display: inline;
+}
+
+#rep {
+	align-content : center;
+	margin-right: 2em;
+	margin-top: 2em;
+	margin-bottom:2em;
+	background: #F2F5A9;
+	border:1px solid black;
+	padding:1%;
+	
+}
+
+.container{
+	display: flex;
+	margin-top: 50px;
+}
+
+.chat {
+	display: inline;
+	padding-left: 2em;
+	background: #edead3;
+	border:1px solid black;
+	padding:1%;
+	
+}
